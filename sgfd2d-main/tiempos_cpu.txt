@@ -1,0 +1,4 @@
+Malla 201 x 201   CPU: 0.0825691 s
+Malla 401 x 401   CPU: 0.754178 s
+Malla 801 x 801   CPU: 5.10196 s
+Malla 1601 x 1601   CPU: 57.6771 s
